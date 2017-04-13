@@ -1,0 +1,98 @@
+<html>
+
+    <head>
+
+        <style>
+
+            html, body, .wrapper-top-to-bottom {
+                height: 100%;
+                width: 100%;
+            }
+
+            body {
+                margin: 0;
+            }
+
+            .wrapper-top-to-bottom {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+            }
+
+            .wrapper-left {
+                display: grid;
+                grid-template-columns: 1fr;
+                grid-template-rows: 1fr 1fr;
+                height: 100%;
+                width: 100%;
+            }
+
+            .wrapper-right {
+                display: grid;
+                grid-template-columns: 1fr;
+                grid-template-rows: 1fr 1fr 1fr;
+                height: 100%;
+                width: 100%;
+            }
+
+            .left-top {
+                background-color: red;
+            }
+
+            .left-bottom {
+                background-color: blue;
+            }
+
+            .right-top {
+                background-color: yellow;
+            }
+
+            .right-middle {
+                background-color: magenta;
+            }
+
+            .right-bottom {
+                background-color: cyan;
+            }
+
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <div class="wrapper-top-to-bottom">
+
+            <div class="wrapper-left">
+
+                <div class="left-top">
+
+                </div>
+
+                <div class="left-bottom">
+
+                </div>
+
+            </div>
+
+            <div class="wrapper-right">
+
+                <div class="right-top">
+
+                </div>
+
+                <div class="right-middle">
+
+                </div>
+
+                <div class="right-bottom">
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </body>
+
+</html>
