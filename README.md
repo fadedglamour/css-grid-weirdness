@@ -31,6 +31,4 @@ Safari 10.1
 Firefox 53.0
 ![FF 53.0 grid looking extra weird](grid-broken-2-ff.png)
 
-!(grid-broken-2-ff.png)
-
-¯\\_(ツ)_/¯
+¯\\\_(ツ)\_/¯
