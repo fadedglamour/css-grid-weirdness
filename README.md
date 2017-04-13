@@ -2,7 +2,7 @@ Firefox and Safari seem rather confused about the height of the contents of grid
 
 [This](grid.html) nicely coloured grid looks great until you try and fill it with stuff.
 
-!(happy-grid.png)
+![Happy](happy-grid.png)
 
 [This](grid-broken-1.html) is fine in Chrome, but odd in Safari and Firefox (in the same way)
 
@@ -29,7 +29,7 @@ Safari 10.1
 ![Safari 10.1 grid looking maybe ok](grid-broken-2-safari.png)
 
 Firefox 53.0
-![FF 53.0 grid looking extra weird](grid-broken-2-safari.png)
+![FF 53.0 grid looking extra weird](grid-broken-2-ff.png)
 
 !(grid-broken-2-ff.png)
 
